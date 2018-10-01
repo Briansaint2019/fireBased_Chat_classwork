@@ -4,8 +4,11 @@
   "description": "firebase chat for school project",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"reload"
   },
+ 
+ 
   "author": "Brian",
   "license": "ISC",
   "devDependencies": {
